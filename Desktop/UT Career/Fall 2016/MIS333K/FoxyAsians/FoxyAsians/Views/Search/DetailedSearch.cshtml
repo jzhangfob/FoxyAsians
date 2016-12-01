@@ -1,0 +1,46 @@
+﻿
+@using FoxyAsians.Controllers
+@{
+    ViewBag.Title = "DetailedSearch";
+}
+
+<h2>DetailedSearch</h2>
+
+@using (Html.BeginForm("SearchResults", "Search", FormMethod.Get))
+{
+    //Code for form controls
+    <p class="form-group">
+        Title: @Html.TextBox("SearchString", null, new { @class = "form-control" }) <br />
+
+        <br />
+        <div class="form-group">
+            Order by:<br />
+            <label class="radio">@Html.RadioButton("TitleOrder", SortOrder.Ascending, true)Ascending</label>
+            <label class="radio">@Html.RadioButton("TitleOrder", SortOrder.Descending)Descending</label>
+        </div>
+
+        Artist: @Html.TextBox("SearchArtist", null, new { @class = "form-control" }) <br />
+
+        <br />
+        <div class="form-group">
+            Order by:<br />
+            <label class="radio">@Html.RadioButton("ArtistOrder", SortOrder.Ascending, true)Ascending</label>
+            <label class="radio">@Html.RadioButton("ArtistOrder", SortOrder.Descending)Descending</label>
+        </div>
+
+        Album: @Html.TextBox("SearchAlbum", null, new { @class = "form-control" }) <br />
+
+
+        @Html.ListBox("SelectedGenre", (MultiSelectList)ViewBag.AllGenres, new { @class = "form-control" })
+        <br />
+
+        <div class="form-group">
+            Minimum Rating: @Html.TextBox("SearchRating", null, new { @class = "form-control" }) <br />
+            <label class="radio">@Html.RadioButton("SelectedRatingOrder", SortOrder.Ascending, true)Ascending</label>
+            <label class="radio">@Html.RadioButton("SelectedRatingOrder", SortOrder.Descending)Descending</label>
+        </div>
+        <br />
+
+        <input type="submit" value="Search" class="btn btn-default" />
+    </p>
+}

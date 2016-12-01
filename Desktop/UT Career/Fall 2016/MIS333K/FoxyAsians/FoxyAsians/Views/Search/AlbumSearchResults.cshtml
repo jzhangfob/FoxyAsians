@@ -1,0 +1,58 @@
+﻿
+@model IEnumerable<FoxyAsians.Models.Album>
+
+@{
+    ViewBag.Title = "AlbumSearchResults";
+}
+
+<h2>AlbumSearchResults</h2>
+
+@using (Html.BeginForm())
+{
+    <p class="form-group">
+        Search: @Html.TextBox("SearchString", null, new { @class = "form-control" }) <br />
+        <input type="submit" value="Search" class="btn btn-default" />
+        @Html.ActionLink("Advanced Search", "DetailedSearch", null, new { @class = "btn btn-default" })
+        @Html.ActionLink("Show All", "Index", null, new { @class = "btn btn-default" })
+    </p>
+}
+<p>
+    Displaying @ViewBag.SelectedCount of @ViewBag.TotalCount Albums
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Songs)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Artists)
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Rating)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Songs)
+            </td>
+            <td>
+                @String.Join(" & ", item.Artists.Select(artist => artist.Name).ToArray())
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>*@
+            <td>
+                $@Html.DisplayFor(modelItem => item.Price)
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,245 @@
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\ApplicationInsights.config
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\csc.exe
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\vbc.exe
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\FoxyAsians.dll.config
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\FoxyAsians.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\FoxyAsians.pdb
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Antlr3.Runtime.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\EntityFramework.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\EntityFramework.SqlServer.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.Web.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Newtonsoft.Json.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Owin.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Helpers.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Mvc.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Optimization.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Razor.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Razor.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\WebGrease.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Antlr3.Runtime.pdb
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\EntityFramework.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\EntityFramework.SqlServer.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.Web.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\Newtonsoft.Json.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Optimization.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Razor.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Razor.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Helpers.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\bin\System.Web.Mvc.xml
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.csprojResolveAssemblyReference.cache
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.dll
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.pdb
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.InitialSetup.resources
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.csproj.GenerateResource.Cache
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.Trial2.resources
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.CreditCard.resources
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.UpdateCreditCardTag.resources
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.EmailUpdate1.resources
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.IdentityModelChange2.resources
+C:\Users\Chan Lee\Desktop\Fall 2016\MIS333K\HW\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.EditCustomers.resources
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.InitialSetup.resources
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.Trial2.resources
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.CreditCard.resources
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.UpdateCreditCardTag.resources
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.EmailUpdate1.resources
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.IdentityModelChange2.resources
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.EditCustomers.resources
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.csproj.GenerateResource.Cache
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.pdb
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\ApplicationInsights.config
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\csc.exe
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\vbc.exe
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\VBCSCompiler.exe
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\FoxyAsians.dll.config
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\FoxyAsians.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\FoxyAsians.pdb
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Antlr3.Runtime.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\EntityFramework.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\EntityFramework.SqlServer.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.Web.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Newtonsoft.Json.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Owin.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Helpers.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Mvc.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Optimization.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Razor.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Razor.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\WebGrease.dll
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Antlr3.Runtime.pdb
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\EntityFramework.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\EntityFramework.SqlServer.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.Web.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\Newtonsoft.Json.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Optimization.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Razor.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Razor.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Helpers.xml
+C:\Users\lolju\Desktop\FoxyAsians\FoxyAsians\bin\System.Web.Mvc.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\ApplicationInsights.config
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\FoxyAsians.dll.config
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\FoxyAsians.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\FoxyAsians.pdb
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Antlr3.Runtime.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\EntityFramework.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\EntityFramework.SqlServer.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.Web.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Newtonsoft.Json.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Owin.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Helpers.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Mvc.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Optimization.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Razor.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Razor.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\WebGrease.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Antlr3.Runtime.pdb
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\EntityFramework.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\EntityFramework.SqlServer.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.Web.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\Newtonsoft.Json.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Optimization.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Razor.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Webpages.Razor.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Helpers.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\bin\System.Web.Mvc.xml
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.InitialSetup.resources
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.Trial2.resources
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.CreditCard.resources
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.UpdateCreditCardTag.resources
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.EmailUpdate1.resources
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.IdentityModelChange2.resources
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.Migrations.EditCustomers.resources
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.csproj.GenerateResource.Cache
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.dll
+C:\Users\Johnny\Desktop\UT Career\Fall 2016\MIS333K\FoxyAsians\FoxyAsians\obj\Debug\FoxyAsians.pdb

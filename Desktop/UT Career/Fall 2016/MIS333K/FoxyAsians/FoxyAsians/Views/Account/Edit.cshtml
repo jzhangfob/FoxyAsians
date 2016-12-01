@@ -1,0 +1,65 @@
+﻿@model FoxyAsians.Models.AppUser
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+@using (Html.BeginForm("EditInfo", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+        <div class="form-group">
+            @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.PhoneNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.StreetAddress, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.StreetAddress, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.City, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.City, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.State, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.State, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Zip, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.Zip, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.CreditCard1, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.CreditCard1, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.CreditCard2, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">@Html.EditorFor(model => model.CreditCard2, new { htmlAttributes = new { @class = "form-control" } })</div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" class="btn btn-default" value="Save Changes">
+            </div>
+        </div>
+}
+<div>
+    @Html.ActionLink("Back to Profile", "Index")
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+

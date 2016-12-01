@@ -1,0 +1,34 @@
+﻿
+@using FoxyAsians.Controllers
+@{
+    ViewBag.Title = "ArtistDetailedSearch";
+}
+
+<h2>ArtistDetailedSearch</h2>
+
+@using (Html.BeginForm("ArtistSearchResults", "Search", FormMethod.Get))
+{
+    //Code for form controls
+    <p class="form-group">
+        Artist: @Html.TextBox("SearchArtist", null, new { @class = "form-control" }) <br />
+
+        <br />
+        <div class="form-group">
+            Order by:<br />
+            <label class="radio">@Html.RadioButton("NameOrder", SortOrder.Ascending, true)Ascending</label>
+            <label class="radio">@Html.RadioButton("NameOrder", SortOrder.Descending)Descending</label>
+        </div>
+
+        @Html.ListBox("SelectedGenre", (MultiSelectList)ViewBag.AllGenres, new { @class = "form-control" })
+        <br />
+
+        <div class="form-group">
+            Rating: @Html.TextBox("SearchRating", null, new { @class = "form-control" }) <br />
+            <label class="radio">@Html.RadioButton("SelectedRatingOrder", SortOrder.Ascending, true)Ascending</label>
+            <label class="radio">@Html.RadioButton("SelectedRatingOrder", SortOrder.Descending)Descending</label>
+        </div>
+        <br />
+
+        <input type="submit" value="Search" class="btn btn-default" />
+    </p>
+}
