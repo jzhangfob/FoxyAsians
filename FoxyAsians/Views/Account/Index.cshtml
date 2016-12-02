@@ -1,0 +1,64 @@
+﻿@model FoxyAsians.Models.IndexViewModel
+@using Microsoft.AspNet.Identity
+@using Microsoft.AspNet.Identity.EntityFramework
+
+@{
+    ViewBag.Title = "Manage";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <h4>Change your account settings</h4>
+    <hr />
+
+    <div><b>First Name: </b> @ViewBag.FirstName</div> <br />
+    
+    <div><b>Last Name: </b> @ViewBag.LastName</div> <br />
+
+    <div><b>Phone Number: </b> @ViewBag.PhoneNumber</div> <br />
+
+    <div><b>Email: </b> @ViewBag.Email</div> <br />
+
+    <div><b>Street Address: </b> @ViewBag.StreetAddress</div> <br />
+
+    <div><b>City: </b> @ViewBag.City</div> <br />
+
+    <div><b>State: </b> @ViewBag.State</div> <br />
+
+    <div><b>Zip: </b> @ViewBag.Zip</div> <br />
+
+    <div><b>Credit Card 1: </b> @ViewBag.CreditCard1</div> <br />
+
+    <div><b>Credit Card 2: </b> @ViewBag.CreditCard2</div> <br />
+
+    <br />
+    <dl class="dl-horizontal">
+        <dt>Edit Account Info</dt>
+        <dd>
+            [@Html.ActionLink(" Change your account information ", "Edit")]
+        </dd>
+        <dt>Password:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Change your password", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Create", "SetPassword")
+            }
+            ]
+        </dd>
+        <dt>Edit Customer Info</dt>
+        <dd>
+            [@Html.ActionLink(" Change customer information ", "SelectCustomer")]
+        </dd>
+        <dt>Edit Employee Info</dt>
+        <dd>
+            [@Html.ActionLink(" Change employee information ", "SelectEmployee")]
+        </dd>
+    </dl>
+</div>

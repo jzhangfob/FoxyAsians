@@ -1,0 +1,16 @@
+namespace FoxyAsians.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class SingleRole : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
